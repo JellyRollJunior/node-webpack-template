@@ -7,3 +7,4 @@
   - webpack dev server
   - webpack merge
   - node scripts: run, dev, deploy
+  - eslint
