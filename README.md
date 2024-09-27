@@ -1,4 +1,5 @@
 ## node-webpack-template
+
 - Contains:
   - webpack
   - webpack cli
@@ -8,3 +9,4 @@
   - webpack merge
   - node scripts: run, dev, deploy
   - eslint
+  - prettier
