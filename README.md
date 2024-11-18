@@ -7,6 +7,7 @@
   - html loader
   - webpack dev server
   - webpack merge
-  - node scripts: run, dev, deploy
+  - node scripts: test, watch, run, dev, deploy
   - eslint
   - prettier
+  - jest
